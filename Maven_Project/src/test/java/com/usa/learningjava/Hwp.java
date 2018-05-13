@@ -2,12 +2,15 @@ package com.usa.learningjava;
 
 public class Hwp {
 
-int salary = 1000;
+	public void getsalary() {
+		
+	}
+	int salary1 = 1000;
+	String name1 = "King";
+	int salary = 2000;
+	String name = "jhon";
 
-String name = "King";
 
-int salary1 = 2000;
-
-String name1 = "John";
-	
 }
+
+			
